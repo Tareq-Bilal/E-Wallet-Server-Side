@@ -43,7 +43,40 @@ To get started with the project, follow these steps:
 
 ## API Documentation
 
-All Controllers
+### All Controllers
+
 ![image](https://github.com/user-attachments/assets/93f74f87-c621-466b-a1e5-7a128c174a93)
 
+### Users Payment Methods
+
+![image](https://github.com/user-attachments/assets/3b9d7733-93ef-41ed-a0f0-424a388ffcc8)
+
+### Transactions
+
+![image](https://github.com/user-attachments/assets/d4e951ac-e9af-4a6a-905a-f7a4b5a9a793)
+
+### TransactionsLogs
+
+![image](https://github.com/user-attachments/assets/1c78dad6-4609-4ebc-bea2-0703403e5db9)
+
+### Transfers
+
+![image](https://github.com/user-attachments/assets/2f95b426-029b-464c-8fe0-12ab22a9ec49)
+
+### TransfersLogs
+
+![image](https://github.com/user-attachments/assets/1e3bfd9e-bd04-4b03-ac8c-e5e514a19ae1)
+
+### Users
    
+![image](https://github.com/user-attachments/assets/595a0a8c-bd9e-46ab-bcb8-337737007ac3)
+
+### Wallets
+
+![image](https://github.com/user-attachments/assets/9281c30e-a845-43af-b7f4-3d8d655396a3)
+
+### Schemmas 
+
+![image](https://github.com/user-attachments/assets/3cc0044a-a8ee-48ed-89bd-ae84c538b037)
+
+
