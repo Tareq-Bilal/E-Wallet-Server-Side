@@ -1,7 +1,7 @@
 # E-Wallet Server Side 💼
 
-Welcome to the E-Wallet Server Side repository! This project is a secure digital wallet platform built with ASP.NET Core and RESTful API. It enables seamless money transfers between users 💸 while supporting multiple payment methods 💳 and comprehensive 
-transaction tracking📊.
+- Welcome to the E-Wallet Server Side repository! This project is a secure digital wallet platform built with ASP.NET Core and RESTful API. 
+- It enables seamless money transfers between users 💸 while supporting multiple payment methods 💳 and comprehensive transaction tracking📊.
 
 ## Features ✨
 
