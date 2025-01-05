@@ -1,0 +1,6 @@
+@E_Wallet_Server_Side_HostAddress = http://localhost:5076
+
+GET {{E_Wallet_Server_Side_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
