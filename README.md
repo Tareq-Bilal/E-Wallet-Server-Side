@@ -79,4 +79,8 @@ To get started with the project, follow these steps:
 
 ![image](https://github.com/user-attachments/assets/3cc0044a-a8ee-48ed-89bd-ae84c538b037)
 
+### Database Schema
+
+![Screenshot 2025-01-05 221058](https://github.com/user-attachments/assets/88682c5b-6b2b-48db-8d9f-e565e38c9912)
+
 
