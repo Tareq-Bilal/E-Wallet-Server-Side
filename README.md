@@ -24,3 +24,16 @@ To get started with the project, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Tareq-Bilal/E-Wallet-Server-Side.git
+2. **Navigate to the project directory:**
+   ```bash
+   cd E-Wallet-Server-Side
+   Install dependencies:
+
+3. **Install dependencies:**
+dotnet restore
+
+4. **Set up the database:**
+dotnet ef database update
+
+5. **Run the application:**
+dotnet run
