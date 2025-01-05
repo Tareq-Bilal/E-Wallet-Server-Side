@@ -40,3 +40,10 @@ To get started with the project, follow these steps:
 5. **Run the application:**
    ```bash
    dotnet run
+
+## API Documentation
+
+All Controllers
+![image](https://github.com/user-attachments/assets/93f74f87-c621-466b-a1e5-7a128c174a93)
+
+   
