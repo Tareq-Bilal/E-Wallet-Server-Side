@@ -13,6 +13,16 @@
 - **Password Hashing:** Uses hashing algorithms to securely save user passwords 🛡️.
 - **Transaction Query:** Utilizes SQL queries to ensure secure and accurate money transferring 🔄.
 
+- ## Transaction Types 🌐
+
+Here is a simple mind map of the types of transactions in the system:
+
+- **Transactions**
+  - ➕ **Deposit**: Adding funds to the wallet.
+  - ➖ **Withdraw**: Removing funds from the wallet.
+  - 💸 **Payment**: Transferring funds to another user or service.
+  - ↩️ **Refund**: Returning funds to the wallet after a payment.
+
 ## Technologies Used 🛠️
 
 - **ASP.NET Core:** Backend framework 🌐.
