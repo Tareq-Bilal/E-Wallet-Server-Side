@@ -90,7 +90,7 @@ To get started with the project, follow these steps:
 
 ![image](https://github.com/user-attachments/assets/9281c30e-a845-43af-b7f4-3d8d655396a3)
 
-### Schemmas 
+### Schemas 
 
 ![image](https://github.com/user-attachments/assets/3cc0044a-a8ee-48ed-89bd-ae84c538b037)
 
